@@ -1,20 +1,59 @@
 {
- 	"@recordsetCount": "",
- 	"value": [
- 	 	{
- 	 	 	"id": 56789,
- 	 	 	"companyId": 12345,
- 	 	 	"taxCode": "PS081282",
- 	 	 	"taxCodeTypeId": "P",
- 	 	 	"description": "Yarn",
- 	 	 	"parentTaxCode": "PS080100",
- 	 	 	"isPhysical": true,
- 	 	 	"goodsServiceCode": 0,
- 	 	 	"entityUseCode": "",
- 	 	 	"isActive": true,
- 	 	 	"isSSTCertified": false
- 	 	}
- 	],
- 	"@nextLink": "",
- 	"pageKey": ""
+  "@recordsetCount": "",
+  "value": [
+    {
+      "id": 56789,
+      "companyId": 12345,
+      "taxCode": "PS081282",
+      "taxCodeTypeId": "P",
+      "description": "Yarn",
+      "parentTaxCode": "PS080100",
+      "isPhysical": true,
+      "goodsServiceCode": 0,
+      "entityUseCode": "",
+      "isActive": true,
+      "isSSTCertified": false
+    },
+    {
+      "id": 56790,
+      "companyId": 12345,
+      "taxCode": "PS081283",
+      "taxCodeTypeId": "P",
+      "description": "Fabric",
+      "parentTaxCode": "PS080100",
+      "isPhysical": true,
+      "goodsServiceCode": 0,
+      "entityUseCode": "",
+      "isActive": true,
+      "isSSTCertified": false
+    },
+    {
+      "id": 56791,
+      "companyId": 12345,
+      "taxCode": "PS081284",
+      "taxCodeTypeId": "P",
+      "description": "Thread",
+      "parentTaxCode": "PS080100",
+      "isPhysical": true,
+      "goodsServiceCode": 0,
+      "entityUseCode": "",
+      "isActive": true,
+      "isSSTCertified": false
+    },
+    {
+      "id": 56792,
+      "companyId": 12345,
+      "taxCode": "PS081285",
+      "taxCodeTypeId": "P",
+      "description": "Needles",
+      "parentTaxCode": "PS080100",
+      "isPhysical": true,
+      "goodsServiceCode": 0,
+      "entityUseCode": "",
+      "isActive": true,
+      "isSSTCertified": false
+    }
+  ],
+  "@nextLink": "",
+  "pageKey": ""
 }
