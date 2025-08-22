@@ -1,0 +1,20 @@
+{
+ 	"@recordsetCount": "",
+ 	"value": [
+ 	 	{
+ 	 	 	"id": 56789,
+ 	 	 	"companyId": 12345,
+ 	 	 	"taxCode": "PS081282",
+ 	 	 	"taxCodeTypeId": "P",
+ 	 	 	"description": "Yarn",
+ 	 	 	"parentTaxCode": "PS080100",
+ 	 	 	"isPhysical": true,
+ 	 	 	"goodsServiceCode": 0,
+ 	 	 	"entityUseCode": "",
+ 	 	 	"isActive": true,
+ 	 	 	"isSSTCertified": false
+ 	 	}
+ 	],
+ 	"@nextLink": "",
+ 	"pageKey": ""
+}
